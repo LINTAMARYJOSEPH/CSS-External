@@ -1,0 +1,19 @@
+div 
+{
+    display: block;
+    padding: 50px;
+    width: 600px;
+    margin: 5em auto;
+    padding: 2em;
+    background-color: #fdfdff;
+    border-radius: 0.5em;
+
+}
+
+a:link{text-decoration: none;}
+body
+{
+  color: black;
+    background-color: #f0f0f2;
+font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+}
